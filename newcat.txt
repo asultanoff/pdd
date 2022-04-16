@@ -1,0 +1,11 @@
+167 Cotton healthy leaf
+169 Cotton anthracnose
+170 Cotton blight
+991 Apple Healthy leaf
+278 Apple powdery mildew
+279 Apple nitrogen deficiency
+280 Apple Phosphorus Deficiency
+282 Apple Rust
+992 Grape healthy leaf
+299 Grape leaf roll disease
+300 Grape fan leaf disease

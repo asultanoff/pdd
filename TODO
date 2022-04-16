@@ -1,0 +1,4 @@
+* Deploy model and check on real world data
+* add batch aug and imagenette normalization
+* train more epochs 
+* translate labels
