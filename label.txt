@@ -1,0 +1,271 @@
+Pumpkin virus disease 100
+Pumpkin powdery mildew 101
+Pumpkin downy mildew 102
+Leaf Mustard Healthy 103
+Sunflower bacterial leaf spot 104
+Sunflower Black Spot 105
+Chinese cabbage gray spot 106
+Chinese cabbage anthracnose 107
+Chinese cabbage blight 108
+Chinese cabbage virus disease 109
+White spot disease of Chinese cabbage 110
+Bacterial brown spot disease of Chinese cabbage 111
+Chinese cabbage bacterial black spot 112
+Magnesium deficiency in Chinese cabbage 113
+Chinese cabbage poisoning 114
+Chinese cabbage downy mildew 115
+Chinese cabbage black spot 116
+Chinese cabbage black rot 117
+Soybean leaf blight 118
+Soybean sunburn 119
+Soybean gray spot 120
+Soybean Botrytis 121
+Soybean anthracnose 122
+Soybean soot 123
+Soybean blight 124
+Soybean virus disease 125
+Bacterial spot disease of soybean 126
+Soybean nitrogen deficiency 127
+Magnesium deficiency in soybeans 128
+Soybean mosaic disease 129
+Soybean phytotoxicity 130
+Soybean Alternaria black spot 131
+Soybean Rust 132
+Soybean Keykang Leaf 133
+Soybean herbicide phytotoxicity 134
+Soybean downy mildew 135
+Soybean target disease 136
+Wheat leaf blight 137
+Wheat leaf embroidery 138
+Wheat conchosporidium leaf blight 139
+wheat leaf blight 140
+wheat stripe blight 141
+Wheat Stripe Mosaic 142
+Wheat Spotted Mosaic 143
+Wheat powdery mildew 144
+Bacterial leaf blight of wheat 145
+Wheat mosaic disease 146
+Wheat yellow leaf blight 147
+Hawthorn leaf spot 148
+Hawthorn rust 149
+Lentil spot disease 150
+Lentil virus disease 151
+Lentil Vitiligo 152
+Lentil brown spot disease 153
+Date tree rust 154
+Walnut black spot 155
+Peach tree latent mosaic disease 156
+Iron deficiency in peach trees 157
+Mulberry Healthy Leaf 158
+Mulberry anthracnose 159
+Mulberry sooty disease 160
+White spot disease on mulberry buds and leaves 161
+Mulberry brown spot 162
+Pear tree gray spot 163
+Pear Sooty Disease 164
+Pear Brown Spot 165
+Pear tree rust 166
+Cotton Health Leaf 167
+Cotton leaf burn 168
+Cotton anthracnose 169
+Cotton blight 170
+Cotton eye spot 171
+Potassium deficiency in cotton 172
+Magnesium deficiency in cotton 173
+Cotton stem blight 174
+Cotton spot disease 175
+Cotton herbicide damage 176
+Cotton Verticillium 177
+Cherry Bacterial Perforation 178
+Cherry mosaic virus disease 179
+Cherry brown spot perforation 180
+Bacterial perforation of nectarine 181
+Tobacco leaf spot 182
+Tobacco common mosaic disease 183
+Tobacco scorch 184
+Tobacco virus disease 185
+Tobacco leaf spot disease 186
+Tobacco mosaic virus disease 187
+Tobacco frog eye disease 188
+Tobacco Scab 189
+Tobacco potato virus Y 190
+Kiwi leaf spot disease 191
+Kiwifruit gray spot disease 192
+Kiwifruit mosaic virus disease 193
+Kiwi brown spot disease 194
+Corn Health 195
+Corn spot disease 196
+Great Spot of Corn 197
+Corn blight 198
+Corn curvaceous leaf spot 199
+Corn sunburn 200
+Corn Root Rot 201
+Corn gray spot 202
+Corn sooty disease 203
+corn virus disease 204
+Corn dwarf mosaic virus disease 205
+Corn red leaf disease 206
+Corn Sheath Blight 207
+Corn bacterial leaf spot 208
+Corn bacterial wilt 209
+Bacterial red stripe disease of corn 210
+Phosphorus deficiency in corn 211
+Potassium deficiency in corn 212
+Zinc deficiency in corn 213
+Corn brown spot 214
+Maize Genetic Stripes 215
+Corn rust 216
+Corn top rot 217
+Kale Health 218
+Cabbage poisoning 219
+Sweet Potato Healthy Leaf 220
+Sweet potato freeze damage 221
+Sweet potato leaf spot 222
+Sweet potato Cercospora leaf spot 223
+Sweet potato soot 224
+Sweet potato virus disease 225
+Sweet potato blast 226
+Magnesium deficiency in sweet potato 227
+Sweet potato phytotoxicity 228
+Sweet potato scab 229
+Melon Health 230
+Melon powdery mildew 231
+Melon downy mildew 232
+Ginger leaf curl disease 233
+Ginger anthracnose 234
+Ginger white spot disease 235
+Ginger bacterial leaf spot 236
+Ginger mosaic virus disease 237
+Ginger poisoning 238
+Tomato leaf spot 239
+Tomato leaf blight 240
+Tomato gray leaf spot 241
+Purple Potato Healthy Leaf 242
+Mung bean healthy plant key leaf 243
+Mung bean sooty disease 244
+Mung bean magnesium deficiency 245
+Mung bean brown spot disease 246
+Sesame leaf spot 247
+Sesame blight 248
+Sesame yellow dwarf virus disease 249
+Peanut Health Leaf 250
+Peanut anthracnose 251
+Peanut Spot 252
+Peanut scab 253
+Peanut powdery mildew 254
+Peanut Phosphorus Deficiency 255
+Peanut iron deficiency 256
+Magnesium deficiency in peanuts 257
+Mixed Peanut Spot and Brown Spot 258
+Peanut ozone damage 259
+Peanut brown spot 260
+Peanut Rust 261
+Peanut Spot 262
+Peanut black spot mixed with focal spot 263
+Peanut black spot and net spot mixed 264
+Celery Health 265
+Celery leaf spot 266
+Celery leaf spot disease 267
+Celery leaf blight 268
+Celery leaf blight and phytotoxic mix 269
+Celery bacterial leaf spot 270
+Celery bacterial leaf blight 271
+Celery poisoning 272
+Celery black spot 273
+Apple round spot 274
+apple leaflet disease 275
+Apple spotted leaf leaf disease 276
+Apple gray spot 277
+Apple powdery mildew 278
+Apple nitrogen deficiency 279
+Apple Phosphorus Deficiency 280
+Apple brown spot 281
+Apple Rust 282
+Apple herbicide injury 283
+Eggplant Health 284
+Strawberry leaf blight 285
+Strawberry Snake Eye 286
+Strawberry brown spot 287
+Bean powdery mildew 288
+Bacterial blight of kidney bean 289
+healthy spinach 290
+Spinach black spot 291
+Radish Vitiligo 292
+Radish shrunken virus disease 293
+Radish fat damage 294
+Radish mosaic virus disease 295
+Radish yellow leaf blight 296
+Radish black spot 297
+Radish black rot 298
+Grape leaf roll disease 299
+Grape fan leaf disease 300
+Grape Herbicide Hazards 301
+Grape black pox 302
+green onion health 303
+Sclerotinia sclerotiorum 304
+Botrytis cinerea 305
+Onion blight 306
+Onion virus disease 307
+Onion purpura 308
+Onion downy mildew 309
+Onion black spot 310
+Blueberry Health 311
+Blueberry Leaf Spot 312
+Blueberry red ring spot virus disease 313
+Blueberry Iron Deficiency 314
+Zucchini powdery mildew 315
+Millet Healthy Leaf 316
+Millet blight 317
+Millet white disease 318
+Millet millet black sheath disease 319
+Millet Bacterial Stripe 320
+Cowpea leaf blight 321
+Cowpea Botrytis 322
+Cowpea Sooty Disease 323
+Cowpea shrinkage virus disease 324
+Cowpea erythema 325
+Cowpea mosaic virus 326
+Cowpea rust 327
+Chili Health 328
+Pepper leaf blight 329
+Pepper smut 330
+Pepper blight 331
+Pepper virus disease 332
+Pepper Vitiligo 333
+Chili powdery mildew 334
+Pepper navel rot 335
+Pepper brown spot disease 336
+Pepper black spot 337
+Leek hail damage 338
+Leek Botrytis 339
+Leek fertilizer damage 340
+Toon powdery mildew mixed with rust 341
+Toona bacterial brown spot disease 342
+Toon brown spot disease 343
+Toon rust 344
+Potato Health 345
+Potato early blight 346
+Potato late blight 347
+Sorghum Healthy Leaf 348
+Sorghum Great Spot 349
+Sorghum anthracnose 350
+Sorghum coal streak disease 351
+Sorghum coccidioides leaf spot 352
+Sorghum dwarf mosaic disease 353
+Sorghum purpura 354
+Sorghum Sheath Blight 355
+Sorghum bacterial streak disease 356
+Sorghum bacterial red streak disease 357
+Sorghum mosaic disease 358
+Sorghum leopard disease 359
+Sorghum target spot 360
+Cucumber Health 361
+Cucumber anthracnose 362
+Cucumber Vitiligo 363
+Cucumber powdery mildew 364
+Cucumber Shrinking Virus Disease 365
+Cucumber bacterial angular spot 366
+Cucumber Corn Spot Vitiligo Mix 367
+Cucumber downy mildew 368
+Cucumber target spot 369
+Cucumber black spot 370
